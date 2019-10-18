@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="lessons">Lessons</string>
+    <string name="exercises">Exercises</string>
+    <string name="exams">Exams</string>
+    <string name="answers">Answers</string>
+
+    <string name="gone">gone</string>
+    <string name="visible">visible</string>
+
+
+    <string name="username">Username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="or">Or</string>
+    <string name="forget_password">forget password?</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="title_activity_home">home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="lessons_solid_title">Lessons</string>
+    <string name="exercises_solid_title">Exercises</string>
+    <string name="answers_solid_title">Answers</string>
+    <string name="exams_solid_title">Exams</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lesson_complete_message">انت تقوم بعمل رائع الان ! استمر</string>
+    <string name="lesson_complete_message_title">لقد انهيت الدرس!</string>
+    <string name="next_lesson">الدرس التالي</string>
+    <string name="home">الرئيسية</string>
+</resources>

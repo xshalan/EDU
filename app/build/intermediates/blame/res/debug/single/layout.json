@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\SEE\\Desktop\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_lesson_holder.xml",
+        "source": "C:\\Users\\SEE\\Desktop\\MyApplication\\app\\src\\main\\res\\layout\\item_lesson_holder.xml"
+    },
+    {
+        "merged": "C:\\Users\\SEE\\Desktop\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_lessons_list.xml",
+        "source": "C:\\Users\\SEE\\Desktop\\MyApplication\\app\\src\\main\\res\\layout\\fragment_lessons_list.xml"
+    }
+]
